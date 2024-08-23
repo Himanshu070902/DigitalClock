@@ -1,0 +1,21 @@
+body{
+    padding: 200px;
+    background-color: aqua;
+    padding: 150;
+}
+.container{
+    height: 130px;
+    width: 300px;
+    border: 2px groove rgba(118, 239, 248, 0.9);
+    border-radius: 35px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+h1{
+    font-style: italic;
+    color: rgb(8, 9, 100);
+}
+
+#clock{
+    font-size: 30px;
+    font-style: sans-serif;
+}
